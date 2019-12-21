@@ -1,4 +1,4 @@
-# Change CSS Color by Js
+# Flex Gallery using JS
 
 ![image](/src/images/player.gif)
 
